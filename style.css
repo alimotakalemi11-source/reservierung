@@ -390,7 +390,7 @@ select.Costumer_Data {
     display: none;
   }
 }
-@media(max-height:400px){
+@media(min-height:400px){
   main{
     height: auto;
   }
