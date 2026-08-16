@@ -384,3 +384,14 @@ select.Costumer_Data {
 .impressum-header {
     background-color: #6c63ff;
 }
+
+@media(max-width:600px){
+  .logo{
+    display: none;
+  }
+}
+@media(max-height:400px){
+  main{
+    height: auto;
+  }
+}
