@@ -392,6 +392,7 @@ select.Costumer_Data {
 }
 @media(min-height:400px){
   main{
+    padding: 20px 0px;
     height: auto;
   }
 }
